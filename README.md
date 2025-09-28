@@ -90,6 +90,7 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00BFFF&style=flat-square" alt="views"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamdwivedi-spacepilot/shubhamdwivedi-spacepilot/output/snake.svg" alt="Snake animation"/>
 </p>
