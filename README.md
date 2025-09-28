@@ -1,8 +1,49 @@
-<!-- Typing Animation -->
+<div align="center">
+  <svg
+    width="1000"
+    height="80"
+    viewBox="0 0 1000 80"
+    xmlns="http://www.w3.org/2000/svg"
+    font-family="Orbitron, sans-serif"
+    font-size="28"
+    font-weight="700"
+  >
+    <!-- Define typing mask -->
+    <mask id="typing-mask">
+      <rect width="1000" height="80" fill="#fff" />
+      <text x="0" y="52" fill="#000">
+        Hi 👋, I'm Shubham Dwivedi; Future Cloud & DevOps Engineer;
+        Exploring DevOps | Security; Open for Global Opportunities
+      </text>
+    </mask>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=FF0000,FF7F50,FF1493&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;Exploring+DevOps+%7C+Security;Open+for+Global+Opportunities" alt="Typing Animation"/>
-</p>
+    <!-- Animated ambient color background -->
+    <rect width="1000" height="80" fill="black" mask="url(#typing-mask)">
+      <animate
+        attributeName="fill"
+        values="#FF0000;#00FF7F;#1E90FF;#FF1493;#FF0000"
+        dur="8s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+    <!-- Typing text reveal -->
+    <text x="0" y="52" fill="white" mask="url(#typing-mask)">
+      <tspan id="typed-text" />
+      <animate
+        id="typing"
+        attributeName="textLength"
+        from="0"
+        to="1000"
+        begin="0s"
+        dur="5s"
+        fill="freeze"
+      />
+      <set attributeName="visibility" to="visible" begin="typing.end" />
+    </text>
+  </svg>
+</div>
+
 
 ---
 
