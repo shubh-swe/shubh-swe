@@ -1,13 +1,6 @@
-<!-- Typing Animation (multicolor, animated) -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="assets/typing-color.svg" alt="Shubham typing animation" width="1000"/>
-</p>
-
----
-
-<!-- Futuristic Banner -->
-<p align="center">
-  <img src="assets/future-cyberpunk-coding.gif" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;MLOps+%7C+AI+%7C+Automation;Learning+Terraform+%7C+Kubernetes+%7C+GCP;Targeting+1.2Cr+-+2Cr+Global+Packages" alt="Typing Animation"/>
 </p>
 
 ---
@@ -29,28 +22,17 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,argo,helm,linux,git,github,python,bash,html,css,js,mysql&perline=9" />
 </p>
 
-<p align="center">
-  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</p>
-
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-<!-- stable profile card -->
-<img src="https://gh-card.dev/view?username=shubhamdwivedi-spacepilot" alt="GitHub Card" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-<!-- contribution heatmap -->
-<img src="https://ghchart.rshah.org/shubhamdwivedi-spacepilot" alt="GitHub Contribution Chart" width="400"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdwivedi-spacepilot&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -82,7 +64,7 @@
 ## 🎨 Fun Zone  
 
 <p align="center">
-  <img src="assets/robot-fun.svg" width="360" alt="Robot Fun"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Robot Coding"/>
 </p>
 
 ✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
@@ -97,11 +79,6 @@
 </p>
 
 ---
-
-<!-- Futuristic Divider Animation -->
-<p align="center">
-  <img src="assets/futuristic-divider.gif" width="600"/>
-</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00F7FF&style=flat-square" alt="views"/>
