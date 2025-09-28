@@ -1,10 +1,11 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;MLOps+%7C+AI+%7C+Automation+Explorer;Always+Learning+%26+Building+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;MLOps+%7C+AI+%7C+Automation+Explorer;Always+Learning+%26+Building+Projects;Passionate+about+Tech+%2C+Music+%26+Space)](https://git.io/typing-svg)
 
 ---
 
+<!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/0V8pMXL/cyberpunk-coding.gif" width="700"/>
+  <img src="https://i.ibb.co/m8YkHhJ/future-cyberpunk-coding.gif" width="800"/>
 </p>
 
 ---
@@ -15,8 +16,8 @@
 🌱 Exploring **Cloud-Native, Automation, DevSecOps & ML pipelines**  
 ⚡ Skilled in **Terraform, Kubernetes, Jenkins, GitHub Actions, ArgoCD, Helm**  
 🤖 Passionate about **MLOps, AI workflows, MLflow & Automation**  
-🎵 Music lover | 🌌 Space Research enthusiast  
-📌 **Career Goal → To become a Cloud + DevOps + MLOps Engineer**  
+🎵 Music fuels my soul | 🌌 Inspired by Space Research  
+📌 **Goal → Cloud + DevOps + MLOps Engineer**  
 
 ---
 
@@ -31,12 +32,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=highcontrast&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdwivedi-spacepilot&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdwivedi-spacepilot&theme=highcontrast&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -68,7 +69,7 @@
 ## ⚡ Fun Zone  
 
 <p align="center">
-  <img src="https://i.ibb.co/2y5sW5j/hacker-anime.gif" width="600"/>
+  <img src="https://i.ibb.co/Yt5WJxn/anime-cyberpunk.gif" width="500"/>  
 </p>
 
 ✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
@@ -78,12 +79,17 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shubham-dwivedi-a9589737b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shubhamdwivedi.spacepilot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubham-dwivedi-a9589737b"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shubhamdwivedi.spacepilot@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
+<!-- Futuristic Divider Animation -->
+<p align="center">
+  <img src="https://i.ibb.co/XCsDpS2/futuristic-divider.gif" width="600"/>
+</p>
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00FFF7&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00F7FF&style=flat-square" alt="views"/>
 </p>
