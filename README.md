@@ -1,5 +1,7 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;AI+%7C+ML+%7C+MLOps+Explorer;Always+Learning+%26+Building+Projects;Passionate+about+Tech+%2C+Music+%26+Space)](https://git.io/typing-svg)
+<!-- Typing Animation (multicolor, animated) -->
+<p align="center">
+  <img src="assets/typing-color.svg" alt="Shubham typing animation" width="1000"/>
+</p>
 
 ---
 
@@ -41,20 +43,19 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (stable fallbacks)
+
+> If `github-readme-stats` or some Vercel widgets break, use these quick, reliable fallbacks.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=highcontrast&hide_border=true" height="180px"/>
+<!-- simple profile card -->
+<img src="https://gh-card.dev/view?username=shubhamdwivedi-spacepilot" alt="GitHub Card" />
+
+<!-- contribution chart -->
+<img src="https://ghchart.rshah.org/shubhamdwivedi-spacepilot" alt="GitHub Contribution Chart" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdwivedi-spacepilot&theme=highcontrast&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamdwivedi-spacepilot&theme=tokyonight" />
-</p>
+*If you prefer the original `github-readme-stats` visuals, re-add them once Vercel issues clear — or remove `count_private=true` if it caused the error.*
 
 ---
 
@@ -82,30 +83,10 @@
 
 ---
 
-## 🎨 Fun Zone  
+## 🎨 Fun Zone — choose one (all runnable without failing widgets)
 
+### Option A — GIF (quick & zero config)
+```html
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>  
-</p>
-
-✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shubham-dwivedi-a9589737b"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shubhamdwivedi.spacepilot@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Futuristic Divider Animation -->
-<p align="center">
-  <img src="assets/futuristic-divider.gif" width="600"/>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00F7FF&style=flat-square" alt="views"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
