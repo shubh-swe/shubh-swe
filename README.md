@@ -1,6 +1,32 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=FF0000,FF7F50,FF1493&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;Exploring+DevOps+%7C+Security;Open+for+Global+Opportunities" alt="Typing Animation"/>
+<svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0000">
+        <animate attributeName="stop-color" values="#FF0000;#FF7F50;#FF1493;#FF0000" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FF7F50">
+        <animate attributeName="stop-color" values="#FF7F50;#FF1493;#FF0000;#FF7F50" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF1493">
+        <animate attributeName="stop-color" values="#FF1493;#FF0000;#FF7F50;#FF1493" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Orbitron, sans-serif" font-size="28" font-weight="700" fill="url(#gradient)">
+    Hi 👋, I'm Shubham Dwivedi
+  </text>
+
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="Orbitron, sans-serif" font-size="20" font-weight="500" fill="url(#gradient)">
+    Future Cloud & DevOps Engineer
+  </text>
+
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-family="Orbitron, sans-serif" font-size="20" font-weight="500" fill="url(#gradient)">
+    Exploring DevOps | Security | Open for Global Opportunities
+  </text>
+</svg>
 </p>
 
 
