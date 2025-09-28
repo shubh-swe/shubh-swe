@@ -1,6 +1,6 @@
 <!-- Typing Animation (multicolor, animated) -->
 <p align="center">
-  <img src="assets/robot-fun.svg" width="360" alt="Robot Fun"/>
+  <img src="assets/typing-color.svg" alt="Shubham typing animation" width="1000"/>
 </p>
 
 ---
@@ -43,19 +43,15 @@
 
 ---
 
-## 📊 GitHub Stats (stable fallbacks)
-
-> If `github-readme-stats` or some Vercel widgets break, use these quick, reliable fallbacks.
+## 📊 GitHub Stats  
 
 <p align="center">
-<!-- simple profile card -->
-<img src="https://gh-card.dev/view?username=shubhamdwivedi-spacepilot" alt="GitHub Card" />
+<!-- stable profile card -->
+<img src="https://gh-card.dev/view?username=shubhamdwivedi-spacepilot" alt="GitHub Card" width="400"/>
 
-<!-- contribution chart -->
-<img src="https://ghchart.rshah.org/shubhamdwivedi-spacepilot" alt="GitHub Contribution Chart" />
+<!-- contribution heatmap -->
+<img src="https://ghchart.rshah.org/shubhamdwivedi-spacepilot" alt="GitHub Contribution Chart" width="400"/>
 </p>
-
-*If you prefer the original `github-readme-stats` visuals, re-add them once Vercel issues clear — or remove `count_private=true` if it caused the error.*
 
 ---
 
@@ -83,10 +79,30 @@
 
 ---
 
-## 🎨 Fun Zone — choose one (all runnable without failing widgets)
+## 🎨 Fun Zone  
 
-### Option A — GIF (quick & zero config)
-```html
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="assets/robot-fun.svg" width="360" alt="Robot Fun"/>
+</p>
+
+✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shubham-dwivedi-a9589737b"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shubhamdwivedi.spacepilot@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Futuristic Divider Animation -->
+<p align="center">
+  <img src="assets/futuristic-divider.gif" width="600"/>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00F7FF&style=flat-square" alt="views"/>
 </p>
