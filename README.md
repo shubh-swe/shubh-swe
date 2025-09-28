@@ -61,13 +61,15 @@
 ---
 ## 🎨 Fun Zone  
 
+## 🎨 Fun Zone  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Coding Loop"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Developer Flow"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300" alt="Futuristic Anime Tech"/>
+  <img src="https://media.giphy.com/media/26FPqut4PQlYVWN9K/giphy.gif" width="300" alt="Motivational Anime"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Sparkle"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Cyberpunk Sparkle"/>
 </p>
 
 ✨ **“🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”**  
@@ -75,6 +77,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
 </p>
+
 
 ---
 
