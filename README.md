@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=FF0000,FF7F50,FF1493&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;MLOps+%7C+AI+%7C+Automation;Exploring+DevOps+%7C+MLOps+%7C+AI+%7C+Security;Open+for+Global+Opportunities" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=FF0000,FF7F50,FF1493&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;Exploring+DevOps+%7C+Security;Open+for+Global+Opportunities" alt="Typing Animation"/>
 </p>
+
 
 ---
 
