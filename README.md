@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;MLOps+%7C+AI+%7C+Automation;Learning+Terraform+%7C+Kubernetes+%7C+GCP;Targeting+1.2Cr+-+2Cr+Global+Packages" alt="Typing Animation"/>
 </p>
 
+
 ---
 
 ## 🧑‍💻 About Me  
@@ -27,9 +28,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
+
 ---
 
 ## 🚀 Featured Project  
