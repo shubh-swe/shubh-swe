@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Cloud+%26+DevOps+Engineer+in+Making;MLOps+%7C+AI+%7C+Automation;Exploring+Terraform+%7C+Kubernetes+%7C+GCP;Targeting+Global+1.2Cr+-+2Cr+Package" alt="Typing Animation"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,argo,helm,linux,git,github,python,bash,html,css,js,mysql&perline=9" />
 </p>
+
 
 ---
 
@@ -59,14 +60,19 @@
 - 📌 Deploy ML Apps → **Docker + Kubernetes**  
 
 ---
-
 ## 🎨 Fun Zone  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Robot Coding"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Coding Robot"/>
 </p>
 
-✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Gaming"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Coding Flow"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Hacking Matrix"/>
+</p>
+
+✨ *“Cloud is my sky ☁️, DevOps is my engine ⚙️, and AI/ML is my future 🤖.”*  
 
 ---
 
