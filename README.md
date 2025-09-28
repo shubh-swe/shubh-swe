@@ -1,6 +1,6 @@
 <!-- Typing Animation (multicolor, animated) -->
 <p align="center">
-  <img src="assets/typing-color.svg" alt="Shubham typing animation" width="1000"/>
+  <img src="assets/robot-fun.svg" width="360" alt="Robot Fun"/>
 </p>
 
 ---
