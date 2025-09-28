@@ -64,8 +64,8 @@
 ## 🎨 Fun Zone  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300" alt="Futuristic Anime Tech"/>
-  <img src="https://media.giphy.com/media/26FPqut4PQlYVWN9K/giphy.gif" width="300" alt="Motivational Anime"/>
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="300" alt="Coding on Laptop"/>
+  <img src="https://media.giphy.com/media/1kN2VZbXJQkGkyPbx6/giphy.gif" width="300" alt="Anime Manga Motivation"/>
 </p>
 
 <p align="center">
@@ -77,6 +77,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
 </p>
+
 
 
 ---
