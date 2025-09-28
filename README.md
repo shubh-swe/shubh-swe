@@ -5,7 +5,7 @@
 
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/m8YkHhJ/future-cyberpunk-coding.gif" width="800"/>
+  <img src="assets/future-cyberpunk-coding.gif" width="800"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ## ⚡ Fun Zone  
 
 <p align="center">
-  <img src="https://i.ibb.co/Yt5WJxn/anime-cyberpunk.gif" width="500"/>  
+  <img src="assets/anime-cyberpunk.gif" width="500"/>  
 </p>
 
 ✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
@@ -106,6 +106,7 @@
 
 ## 🐍 Watch My Contributions Come Alive  
 
+<!-- Needs GitHub Action setup -->
 <p align="center">
   <img src="https://github.com/shubhamdwivedi-spacepilot/shubhamdwivedi-spacepilot/blob/output/github-contribution-grid-snake.svg" />
 </p>
@@ -123,7 +124,7 @@
 
 <!-- Futuristic Divider Animation -->
 <p align="center">
-  <img src="https://i.ibb.co/XCsDpS2/futuristic-divider.gif" width="600"/>
+  <img src="assets/futuristic-divider.gif" width="600"/>
 </p>
 
 <p align="center"> 
