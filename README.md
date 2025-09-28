@@ -27,12 +27,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdwivedi-spacepilot&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamdwivedi-spacepilot&theme=radical&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh-swe&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-swe&theme=radical&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdwivedi-spacepilot&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-swe&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 - ✅ Deployments using **Kubernetes + ArgoCD**  
 - ✅ Images stored in **GHCR (GitHub Container Registry)**  
 
-👉 [🔗 View Repository](https://github.com/shubhamdwivedi-spacepilot/YOUR-REPO)  
+👉 [🔗 View Repository](https://github.com/shubh-swe/YOUR-REPO)  
 
 ---
 
@@ -80,5 +80,5 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=brightgreen&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubh-swe&label=Profile+Views&color=brightgreen&style=flat-square" alt="views"/>
 </p>
