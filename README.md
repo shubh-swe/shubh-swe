@@ -27,6 +27,18 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,argo,helm,linux,git,github,python,bash,html,css,js,mysql&perline=9" />
 </p>
 
+<p align="center">
+  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
@@ -40,18 +52,34 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdwivedi-spacepilot&theme=highcontrast&hide_border=true" height="180px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamdwivedi-spacepilot&theme=tokyonight" />
+</p>
+
 ---
 
-## 🚀 Featured Project – **DevSecOps Pipeline (Tic-Tac-Toe Game)**  
+## 🚀 Featured Projects  
 
-🎮 **Project:** Tic-Tac-Toe game deployed via **secure DevSecOps pipeline**  
+### 🔹 **DevSecOps Pipeline – Tic-Tac-Toe Game**  
+🎮 Deployed via **Secure CI/CD Pipeline**  
 
-🔑 **Highlights:**  
 - ✅ CI/CD with **GitHub Actions**  
 - ✅ **Code Scanning + Unit Testing**  
 - ✅ **Dockerization + Trivy Security Scan**  
 - ✅ Deployments using **Kubernetes + ArgoCD**  
 - ✅ Images stored in **GitHub Container Registry (GHCR)**  
+
+👉 [🔗 Repository Link](https://github.com/shubhamdwivedi-spacepilot/YOUR-REPO)  
+
+---
+
+### 🔹 **Cloud-Native E-Commerce App** *(In Progress)*  
+🛒 **3-Tier Microservices App** on **GCP/AWS**  
+
+- ✅ Containerized with **Docker + Helm**  
+- ✅ **EKS/GKE Deployment**  
+- ✅ **Ingress + ALB + DNS with custom domain**  
+- ✅ Automated with **Terraform & GitHub Actions**  
 
 👉 [🔗 Repository Link](https://github.com/shubhamdwivedi-spacepilot/YOUR-REPO)  
 
@@ -73,6 +101,14 @@
 </p>
 
 ✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
+
+---
+
+## 🐍 Watch My Contributions Come Alive  
+
+<p align="center">
+  <img src="https://github.com/shubhamdwivedi-spacepilot/shubhamdwivedi-spacepilot/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
