@@ -130,6 +130,3 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shubhamdwivedi-spacepilot&label=Profile+Views&color=00F7FF&style=flat-square" alt="views"/>
 </p>
-
-
-
