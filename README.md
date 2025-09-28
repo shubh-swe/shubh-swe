@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;MLOps+%7C+AI+%7C+Automation+Explorer;Always+Learning+%26+Building+Projects;Passionate+about+Tech+%2C+Music+%26+Space)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;AI+%7C+ML+%7C+MLOps+Explorer;Always+Learning+%26+Building+Projects;Passionate+about+Tech+%2C+Music+%26+Space)](https://git.io/typing-svg)
 
 ---
 
@@ -13,9 +13,9 @@
 ## 🧑‍💻 About Me  
 
 🎓 BCA 5th Semester Student | 🚀 Cloud, DevOps & MLOps Enthusiast  
-🌱 Exploring **Cloud-Native, Automation, DevSecOps & ML pipelines**  
+🌱 Exploring **Cloud-Native, DevSecOps, MLOps & AI workflows**  
 ⚡ Skilled in **Terraform, Kubernetes, Jenkins, GitHub Actions, ArgoCD, Helm**  
-🤖 Passionate about **MLOps, AI workflows, MLflow & Automation**  
+🤖 Passionate about **MLOps, MLflow, DVC & Automation**  
 🎵 Music fuels my soul | 🌌 Inspired by Space Research  
 📌 **Goal → Cloud + DevOps + MLOps Engineer**  
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project  
 
 ### 🔹 **DevSecOps Pipeline – Tic-Tac-Toe Game**  
 🎮 Deployed via **Secure CI/CD Pipeline**  
@@ -73,18 +73,6 @@
 
 ---
 
-### 🔹 **Cloud-Native E-Commerce App** *(In Progress)*  
-🛒 **3-Tier Microservices App** on **GCP/AWS**  
-
-- ✅ Containerized with **Docker + Helm**  
-- ✅ **EKS/GKE Deployment**  
-- ✅ **Ingress + ALB + DNS with custom domain**  
-- ✅ Automated with **Terraform & GitHub Actions**  
-
-👉 [🔗 Repository Link](https://github.com/shubhamdwivedi-spacepilot/YOUR-REPO)  
-
----
-
 ## 🤖 Current Learning Path (MLOps)  
 
 - 🔹 **ML Model Versioning** with DVC  
@@ -94,22 +82,13 @@
 
 ---
 
-## ⚡ Fun Zone  
+## 🎨 Fun Zone  
 
 <p align="center">
-  <img src="assets/anime-cyberpunk.gif" width="500"/>  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>  
 </p>
 
 ✨ *“Cloud is my sky, DevOps is my engine, and AI/ML is my future.”*  
-
----
-
-## 🐍 Watch My Contributions Come Alive  
-
-<!-- Needs GitHub Action setup -->
-<p align="center">
-  <img src="https://github.com/shubhamdwivedi-spacepilot/shubhamdwivedi-spacepilot/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
