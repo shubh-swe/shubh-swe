@@ -59,26 +59,11 @@
 - 📌 Deploy ML Apps → **Docker + Kubernetes**  
 
 ---
-## 🎨 Fun Zone  
+🎨 Fun Zone
+<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Coding"/> <img src="https://media.giphy.com/media/3o6gE5aYblwGg5jY6Y/giphy.gif" width="300" alt="Anime Motivation"/> </p> <p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Tech Sparkle"/> </p>
+✨ “🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”
 
-## 🎨 Fun Zone  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="300" alt="Coding on Laptop"/>
-  <img src="https://media.giphy.com/media/1kN2VZbXJQkGkyPbx6/giphy.gif" width="300" alt="Anime Manga Motivation"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Cyberpunk Sparkle"/>
-</p>
-
-✨ **“🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”**  
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
-</p>
-
-
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/> </p>  
 
 ---
 
