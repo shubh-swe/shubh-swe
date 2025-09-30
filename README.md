@@ -47,7 +47,7 @@
 - ✅ Deployments using **Kubernetes + ArgoCD**  
 - ✅ Images stored in **GHCR (GitHub Container Registry)**  
 
-👉 [🔗 View Repository](https://github.com/shubh-swe/YOUR-REPO)  
+👉 [🔗 View Repository](https://github.com/shubh-swe/devsecops-cicd-projects)  
 
 ---
 
