@@ -59,11 +59,32 @@
 - 📌 Deploy ML Apps → **Docker + Kubernetes**  
 
 ---
-🎨 Fun Zone
-<p align="center"> <img src="https://media.giphy.com/media/xUOxf4h0Z2bQb2hC1i/giphy.gif" width="300" alt="Cloud Engineer at Work"/> <img src="https://media.giphy.com/media/3ohs7YsAx46mCZVJby/giphy.gif" width="300" alt="DevOps Pipeline"/> </p> <p align="center"> <img src="https://media.giphy.com/media/l0MYEWpvO0yJz2QXC/giphy.gif" width="200" alt="Tech Sparkle"/> </p>
-✨ “🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”
 
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/> </p>
+🎨 **Fun Zone**
+
+<p align="center">
+  <!-- Anime + Coding GIFs -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Time"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="DevOps Fun"/>
+</p>
+
+<p align="center">
+  <!-- Anime Hacker Style -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Anime Coding"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Neon Tech"/>
+</p>
+
+<p align="center">
+  <!-- Tech Spark / Futuristic vibe -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="Matrix Coding"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" alt="Cloud DevOps"/>
+</p>
+
+✨ *“🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”*
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
+</p>
 ---
 
 ## 🌍 Connect With Me  
