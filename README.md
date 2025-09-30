@@ -59,26 +59,45 @@
 - 📌 Deploy ML Apps → **Docker + Kubernetes**  
 
 ---
+---
 
 ## 🎮 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Fun"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime Hacker"/>
+  <!-- Hacker / Coding Anime GIFs -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Coding Fun"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Anime Hacker"/>
 </p>
 
-### 🐍 Contribution Snake (Watch it Eat Your Commits)
+---
+
+### 🐍 Contribution Snake (My Commits in Action)
 
 <p align="center">
   <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
-✨ *“🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”*
+---
+
+### 🌌 Matrix Rain Effect  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix rain" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ “Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🚀🌌” ✨</b>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
 </p>
 
+---
+
+---
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
 </p>
