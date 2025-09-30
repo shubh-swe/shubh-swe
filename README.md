@@ -89,7 +89,17 @@
 </p>
 
 ---
+### 🐍 Futuristic Contribution Snake  
 
+<p align="center">
+  <!-- Neon Cyberpunk Snake -->
+  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <!-- Dark Mode Version -->
+  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+</p>
 ---
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
