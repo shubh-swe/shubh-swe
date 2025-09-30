@@ -71,21 +71,14 @@
 
 ---
 
-### 🐍 Contribution Snake (My Commits in Action)
+### 🐍 Futuristic Snake (Neon Edition)
 
 <p align="center">
-  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake-neon.svg" alt="futuristic snake"/>
 </p>
 
 ---
 
-### 🌌 Matrix Rain Effect  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix rain" />
-</p>
-
----
 
 <p align="center">
   <b>✨ “Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🚀🌌” ✨</b>
