@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shubham+Dwivedi;Future+Cloud+%26+DevOps+Engineer;Exploring+DevOps%2C+MLOps%2C+Security%2C+AI;Open+for+Global+Opportunities" alt="Typing Animation"/>
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me  
@@ -59,9 +58,8 @@
 - 📌 Deploy ML Apps → **Docker + Kubernetes**  
 
 ---
----
 
-## 🎮 Fun Zone
+## 🎮 Fun Zone  
 
 <p align="center">
   <!-- Hacker / Coding Anime GIFs -->
@@ -71,11 +69,22 @@
 
 ---
 
-## 🎮 Fun Zone
+### 🐍 Futuristic Snake (Commits in Action)  
+
+<p align="center">
+  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
+
+<p align="center">
+  ✨ *“Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🚀🌌”* ✨
+</p>
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
 </p>
+
 ---
 
 ## 🌍 Connect With Me  
