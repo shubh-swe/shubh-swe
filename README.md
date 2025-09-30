@@ -71,25 +71,7 @@
 
 ---
 
-### 🐍 Futuristic Snake (Neon Edition)
-
-<p align="center">
-  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake-neon.svg" alt="futuristic snake"/>
-</p>
-
----
-
-
-<p align="center">
-  <b>✨ “Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🚀🌌” ✨</b>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
-</p>
-
----
-### 🐍 Futuristic Contribution Snake  
+## 🎮 Fun Zone
 
 <p align="center">
   <!-- Neon Cyberpunk Snake -->
