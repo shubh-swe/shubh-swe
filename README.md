@@ -60,27 +60,24 @@
 
 ---
 
-🎨 **Fun Zone**
+## 🎮 Fun Zone
 
 <p align="center">
-  <!-- Anime + Coding GIFs -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Time"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="DevOps Fun"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Fun"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime Hacker"/>
 </p>
 
-<p align="center">
-  <!-- Anime Hacker Style -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Anime Coding"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Neon Tech"/>
-</p>
+### 🐍 Contribution Snake (Watch it Eat Your Commits)
 
 <p align="center">
-  <!-- Tech Spark / Futuristic vibe -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="Matrix Coding"/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" alt="Cloud DevOps"/>
+  <img src="https://github.com/shubh-swe/shubh-swe/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 ✨ *“🚀 Cloud is my runway, DevOps is my jet engine, and AI/ML is my destination 🌌.”*
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamDwivedi.fun-zone" alt="Visitor Count"/>
